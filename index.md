@@ -18,10 +18,10 @@ Johns Hopkins University
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[https://engineering.jhu.edu/ams/wp-content/uploads/2021/06/binary-code2.jpg](url) 
+and 
 
-
+<img src="https://engineering.jhu.edu/ams/wp-content/uploads/2021/06/binary-code2.jpg" width=700 height=500>
 
 ### Contact
 Johns Hopkins University, Whiting School of Engineering
